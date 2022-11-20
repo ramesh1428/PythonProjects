@@ -1,0 +1,12 @@
+ORDER NUMBER : ODN40763 
+Customer Name : Ramesh 
+Customer Phone number : 9993895936 
+Orders 
+****************** 
+Items Quantity Price 
+1 X pizza ₹199 
+2 X burger ₹240 
+Student Discount 5% 
+Tax      18% 
+****************** 
+Grand Total ₹ 492.119 
